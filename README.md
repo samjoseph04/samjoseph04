@@ -85,21 +85,17 @@
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samjoseph04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samjoseph04&theme=tokyonight&hide_border=true" alt="Sam's Streak Stats" width="49%" />
 </div>
-
 <br/>
 
-
-<br/>
 
 <div align="center">
 
 ### 📫 Let's Connect
 
-<a href="https://linkedin.com/in/samjoseph04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/samjoseph"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/samjoseeph"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
