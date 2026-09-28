@@ -25,8 +25,6 @@
 - 💻 I focus on **full-stack web development**, problem-solving, and understanding how systems work from the ground up
 - 🌱 Constantly leveling up — currently exploring new frameworks and backend architectures
 - 🛠️ I enjoy turning ideas into functional applications using clean code and modern technologies
-- ⚡ Fun fact: I'd rather debug for 3 hours than read documentation for 5 minutes 😄
-
 <br/>
 
 ## 🚀 Featured Projects
