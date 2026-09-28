@@ -12,6 +12,7 @@
 </p>
 
 <div align="center">
+  <a href="https://samjoseph.me"><img src="https://img.shields.io/badge/Portfolio-2E97F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/samjoseph04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/samjoseeph"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:sam.joseph04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,15 +20,16 @@
 
 <br/>
 
-## 💫 About Me
+## About Me
 
 - 🎓 Computer Science enthusiast currently pursuing my **MCA**, passionate about building real-world software systems
 - 💻 I focus on **full-stack web development**, problem-solving, and understanding how systems work from the ground up
 - 🌱 Constantly leveling up — currently exploring new frameworks and backend architectures
 - 🛠️ I enjoy turning ideas into functional applications using clean code and modern technologies
+- 🌐 Check out my portfolio: **[your-portfolio-url.com](https://your-portfolio-url.com)**
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -42,7 +44,7 @@
 
 <br/>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -81,7 +83,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samjoseph04&theme=tokyonight&hide_border=true" alt="Sam's Streak Stats" width="49%" />
@@ -91,8 +93,9 @@
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
+<a href="https://samjoseph.me"><img src="https://img.shields.io/badge/Portfolio-2E97F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/samjoseph04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/samjoseeph"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
